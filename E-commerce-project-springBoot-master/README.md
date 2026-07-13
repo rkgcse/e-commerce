@@ -94,7 +94,7 @@ pom.xml
 ### 1) Clone and move into project
 
 ```bash
-git clone https://github.com/jaygajera17/E-commerce-project-springBoot.git
+git clone https://github.com/rkgcse/E-commerce-project-springBoot.git
 cd E-commerce-project-springBoot
 ```
 
